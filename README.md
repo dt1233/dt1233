@@ -35,48 +35,6 @@ Sadece kod yazmakla kalmıyor, tasarımdan veri tabanı mimarisine kadar uçtan 
 
 ---
 
-## 🔭 Geliştirdiğim Yenilikçi Projeler
-
-Kariyerim boyunca her zaman kullanıcıya gerçek bir değer sunmayı ve pazar payı olabilecek işler yapmayı hedefledim. Geliştirdiğim başlıca sistemler:
-
-### 🎓 Campus Life (Kampüs Yaşam)
-<p align="center">
-  <a href="https://github.com/dt1233/campus-life">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dt1233&repo=campus-life&theme=radical" alt="Campus Life Repo" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dt1233/Optiplan">
-    ### 📈 Optiplan
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dt1233/inonu-ai">
-    ### 🤖 İnönü AI
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dt1233/Sefim-Temiz">
-    ### 👨‍🍳 Şefim Temiz
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dt1233/Yapay-Zeka-Destekli-Beton-Recetesi">
-   ### 🏗️ Yapay Zeka Destekli Beton Reçetesi
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dt1233/Ne-Var-Ne-Yok-App">
-    ### 🏙️ Ne Var Ne Yok?
-</p>
-
----
-
 ## 🏆 Başarılar & Ödüller
 *   🥈 **İnüfest 2.lik Ödülü (Mayıs 2025):** Tüm bu büyük projelerin de çekirdeğini oluşturan "Gıda İhbar" modülümüzün kazandığı İnönü Üniversitesi teknoloji ödülü.
 
