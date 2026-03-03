@@ -40,10 +40,6 @@ Sadece kod yazmakla kalmıyor, tasarımdan veri tabanı mimarisine kadar uçtan 
 Kariyerim boyunca her zaman kullanıcıya gerçek bir değer sunmayı ve pazar payı olabilecek işler yapmayı hedefledim. Geliştirdiğim başlıca sistemler:
 
 ### 🎓 Campus Life (Kampüs Yaşam)
-*Üniversite ekosisteminin merkezileştiği, baştan sona benim tasarladığım devasa bir kampüs yönetim ağı.*
-*   **Nasıl Çalışır?** Öğrenciler uygulamada Gıda/Çevre ihbarları yapabilir, kayıp eşyalarını **Yapay Zeka destekli matching** sistemiyle anında bulabilir ve aralarında 2. el ürün satışı (pazar yeri + canlı sohbet) yapabilirler.
-*   **Teknik Zorluğu:** Tamamı Java Spring Boot & React.js kullanılarak kodlandı. 9 farklı kullanıcı/admin rol katmanı, JWT güvenliği ve PostgreSQL üzerinde sıfır hata ile çalışan kompleks bir veritabanı kurgusu (Flyway migrations) kullanıldı.
-
 <p align="center">
   <a href="https://github.com/dt1233/campus-life">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dt1233&repo=campus-life&theme=radical" alt="Campus Life Repo" />
@@ -51,9 +47,6 @@ Kariyerim boyunca her zaman kullanıcıya gerçek bir değer sunmayı ve pazar p
 </p>
 
 ### 📈 Optiplan
-*Büyük şirketlerin zaman ve operasyonel maliyetini algoritmanın gücüyle sıfıra indiren kurumsal yönetim altyapısı.*
-*   Bünyesinde binlerce farklı parametreyi (görevler, uygunluklar, öncelikler) harmanlayıp, doğru personeli doğru işe saniyeler içinde atayan ve iş akışlarını hatasızlaştıran B2B düzeyinde yüksek optimizasyon aracıdır.
-
 <p align="center">
   <a href="https://github.com/dt1233/Optiplan">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dt1233&repo=Optiplan&theme=radical" alt="Optiplan Repo" />
@@ -61,9 +54,6 @@ Kariyerim boyunca her zaman kullanıcıya gerçek bir değer sunmayı ve pazar p
 </p>
 
 ### 🤖 İnönü AI
-*Kampüsün binlerce farklı sayfasında kaybolan bilgilere saniyeler içinde cevap veren entegre üniversite asistanı.*
-*   Scraping mimarisiyle otonom olarak üniversite bilgi havuzunu okuyan ve bunları Chatbot arayüzü sayesinde "doğal dil (NLP)" ile öğrencilere aktaran mükemmel bir asistan modeli.
-
 <p align="center">
   <a href="https://github.com/dt1233/inonu-ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dt1233&repo=inonu-ai&theme=radical" alt="İnönü AI Repo" />
@@ -71,9 +61,6 @@ Kariyerim boyunca her zaman kullanıcıya gerçek bir değer sunmayı ve pazar p
 </p>
 
 ### 👨‍🍳 Şefim Temiz
-*Yapay Zeka ve Görüntü İşleme'yi endüstriyel hijyen standartlarına taşıyan gerçek zamanlı otonom güvenlik gözlemcisi.*
-*   **YOLOv8** model mimarisiyle, kameralar üzerinden bone, maske ve eldiven gibi kritik Kişisel Koruyucu Donanımları milisaniyeler içerisinde algılayıp uyarı mekanizmaları oluşturur.
-
 <p align="center">
   <a href="https://github.com/dt1233/Sefim-Temiz">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dt1233&repo=Sefim-Temiz&theme=radical" alt="Şefim Temiz Repo" />
@@ -81,9 +68,6 @@ Kariyerim boyunca her zaman kullanıcıya gerçek bir değer sunmayı ve pazar p
 </p>
 
 ### 🏗️ Yapay Zeka Destekli Beton Reçetesi
-*Çevreci ve sürdürülebilir gelecek odaklı, İnşaat Atık Geri Dönüşüm simülatörü.*
-*   Mevcut inşaat molozlarının verilerini sisteme girdiğinizde, en dayanıklı ve en güvenli yapı (beton) formülünü oluşturan makine öğrenimi projesidir. Sağladığı atık yönetimi vizyonuyla ulusal düzeyde, teknoloji haberlerine ve basına yansımıştır.
-
 <p align="center">
   <a href="https://github.com/dt1233/Yapay-Zeka-Destekli-Beton-Recetesi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dt1233&repo=Yapay-Zeka-Destekli-Beton-Recetesi&theme=radical" alt="Yapay Zeka Destekli Beton Reçetesi Repo" />
@@ -91,9 +75,6 @@ Kariyerim boyunca her zaman kullanıcıya gerçek bir değer sunmayı ve pazar p
 </p>
 
 ### 🏙️ Ne Var Ne Yok?
-*Vatandaş ve Belediye arasındaki dijital köprü: Akıllı Şehir Navigatörü.*
-*   Şehrin karmaşasını gideren; otobüslerin anlık GPS takipten, trafik ve belediye duyurularına kadar tüm güncel nabzını tutan entegre, engelli dostu mobil entegrasyon projesidir.
-
 <p align="center">
   <a href="https://github.com/dt1233/Ne-Var-Ne-Yok-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dt1233&repo=Ne-Var-Ne-Yok-App&theme=radical" alt="Ne Var Ne Yok App Repo" />
@@ -109,5 +90,4 @@ Kariyerim boyunca her zaman kullanıcıya gerçek bir değer sunmayı ve pazar p
 
 <div align="center">
   <p><i>İş etiği yüksek, analitik düşünen ve daima yeniliğe aç bir müteşebbis olarak hikayeme devam ediyorum.</i></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmmtbilalyildiz&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
