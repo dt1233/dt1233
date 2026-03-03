@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Merhabalar, Ben Muhammet Bilal YILDIZ 👋</h1>
-  <h3>💻 Yazılım Mühendisi | 🚀 Girişimci | 🏢 Betsan Teknoloji Kurucu Ortağı</h3>
+  <h3><p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Yaz%C4%B1l%C4%B1m+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Giri%C5%9Fimci;Betsan+Teknoloji+Kurucu+Orta%C4%9F%C4%B1" alt="Typing SVG" /></a>
+</p></h3>
   
   <p>
     Teknolojiye duyduğum tutkuyu, üniversite sıralarında laboratuvar köşelerinden alıp kendi şirketimi kurduğum bir girişimcilik serüvenine dönüştürdüm. 
