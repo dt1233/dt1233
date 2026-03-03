@@ -46,39 +46,33 @@ Kariyerim boyunca her zaman kullanıcıya gerçek bir değer sunmayı ve pazar p
   </a>
 </p>
 
-### 📈 Optiplan
 <p align="center">
   <a href="https://github.com/dt1233/Optiplan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dt1233&repo=Optiplan&theme=radical" alt="Optiplan Repo" />
+    ### 📈 Optiplan
   </a>
 </p>
 
-### 🤖 İnönü AI
 <p align="center">
   <a href="https://github.com/dt1233/inonu-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dt1233&repo=inonu-ai&theme=radical" alt="İnönü AI Repo" />
+    ### 🤖 İnönü AI
   </a>
 </p>
 
-### 👨‍🍳 Şefim Temiz
 <p align="center">
   <a href="https://github.com/dt1233/Sefim-Temiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dt1233&repo=Sefim-Temiz&theme=radical" alt="Şefim Temiz Repo" />
+    ### 👨‍🍳 Şefim Temiz
   </a>
 </p>
 
-### 🏗️ Yapay Zeka Destekli Beton Reçetesi
 <p align="center">
   <a href="https://github.com/dt1233/Yapay-Zeka-Destekli-Beton-Recetesi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dt1233&repo=Yapay-Zeka-Destekli-Beton-Recetesi&theme=radical" alt="Yapay Zeka Destekli Beton Reçetesi Repo" />
+   ### 🏗️ Yapay Zeka Destekli Beton Reçetesi
   </a>
 </p>
 
-### 🏙️ Ne Var Ne Yok?
 <p align="center">
   <a href="https://github.com/dt1233/Ne-Var-Ne-Yok-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dt1233&repo=Ne-Var-Ne-Yok-App&theme=radical" alt="Ne Var Ne Yok App Repo" />
-  </a>
+    ### 🏙️ Ne Var Ne Yok?
 </p>
 
 ---
